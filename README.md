@@ -18,8 +18,10 @@
 [<img align="left" alt="SteveB | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Codewars" width="22px" src="https://www.maxintosh.org/images/codewars.png" />][codewars]
 
-
 <br />
+
+---
+
 
 ### Languages and Tools:
 <br>
