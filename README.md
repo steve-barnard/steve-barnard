@@ -1,6 +1,6 @@
 ### Hi, I'm Steve  👋
 
-## I'm a Data Scientist, Analytics Leader, Machine Learning Engineer, Data Engineer, and Research Enthusiast!
+## I'm a Data Scientist, Machine Learning Engineer, Data Engineer, and Applied ML Research Enthusiast!
 
 - 🔭  I’m currently working on a Covid-Data-Tool for researchers and submission to the NIH!
 - 🌱  I’m always working on learning new tools in Machine Learning from Biostatistics to NLP to GANs to RL to Financial forecasting.
