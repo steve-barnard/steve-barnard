@@ -2,11 +2,11 @@
 
 ## I'm a Data Scientist, Analytics Leader, Machine Learning Engineer, Data Engineer, and Research Enthusiast!
 
-- 🔭 I’m currently working on a Covid-Data-Tool for researchers and submission to the NIH!
-- 🌱 I’m always working on learning new tools in Machine Learning from Biostatistics to NLP to GANs to RL to Financial forecasting.
-- :wave: I’m looking to collaborate with other content creators
-- 🥅 2020-21 Goals: Build more open-source tools for researchers and other data scientists, and share more of my knowledge with the community.
-- ⚡ Fun fact: I love to brew beer, compose music, run, build projects with Raspberry Pis, and play guitar
+- 🔭  I’m currently working on a Covid-Data-Tool for researchers and submission to the NIH!
+- 🌱  I’m always working on learning new tools in Machine Learning from Biostatistics to NLP to GANs to RL to Financial forecasting.
+- :wave:  I’m looking to collaborate with other content creators
+- 🥅  2020-21 Goals: Build more open-source tools for researchers and other data scientists, and share more of my knowledge with the community.
+- ⚡  Fun fact: I love to brew beer, compose music, run, build projects with Raspberry Pis, and play guitar
 
 ## Education:
 - Carnegie Mellon : Masters of Science in Business Analytics (applied machine learning to business)
