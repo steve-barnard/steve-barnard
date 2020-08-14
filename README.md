@@ -10,7 +10,7 @@
 
 ## Education:
 - Carnegie Mellon : Masters of Science in Business Analytics (applied machine learning to business)
-- Loyola University Chicago: Biology
+- Loyola University Chicago: Biology (personal focus on Viral oncolytics - no active research)
 
 ### Connect with me:
 
