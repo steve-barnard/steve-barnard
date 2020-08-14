@@ -1,4 +1,4 @@
-### Hi there, I'm Steve Barnard 👋
+### Hi, I'm Steve  👋
 
 ## I'm a Data Scientist, Analytics Leader, Machine Learning Engineer, Data Engineer, and Research Enthusiast!
 
