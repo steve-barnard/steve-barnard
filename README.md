@@ -16,7 +16,7 @@
 
 [<img align="left" alt="MechanicalLamp.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="SteveB | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Codewars" width="22px" src="https://www.maxintosh.org/images/codewars.png" />][linkedin]
+[<img align="left" alt="Codewars" width="22px" src="https://www.maxintosh.org/images/codewars.png" />][codewars]
 
 
 <br />
