@@ -17,6 +17,7 @@
 [<img align="left" alt="MechanicalLamp.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="SteveB | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Codewars" width="22px" src="https://www.maxintosh.org/images/codewars.png" />][codewars]
+[<img align="left" alt="Rosalind" width="22px" src="http://rosalind.info/static/img/achievements/small/trilobite.png?v=1560257990" />][rosalind]
 
 <br />
 
@@ -93,11 +94,12 @@
 
 
 [website]: https://mechanicallamp.com/
-[twitter]: https://twitter.com/codeSTACKr
+[rosalind]: http://rosalind.info/users/steve-barnard/
+[twitter]: https://twitter.com/
 [codewars]: https://www.codewars.com/users/sbarnard
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+[youtube]: https://youtube.com/
+[instagram]: https://instagram.com/
 [linkedin]: https://www.linkedin.com/in/steve-barnard/
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[jsplaylist]: https://www.youtube.com/playlist?list=
+[cssplaylist]: https://www.youtube.com/playlist?list=
+[reactplaylist]: https://www.youtube.com/playlist?list=
