@@ -1,16 +1,16 @@
 ### Hi, I'm Steve  👋
 
-## I'm a Data Scientist, Machine Learning Engineer, Data Engineer, and Enthusiast of Applied ML Research !
+## I'm a Sr. Data Scientist, Machine Learning Engineer, Data Engineer, and Enthusiast of Applied ML Research !
 
-- 🔭  I’m currently working on azure data engineering pipelines.
+- 🔭  I’m currently working on applied NLP services and Predictive Risk Models.
 - 🌱  I’m always working on learning new tools in Machine Learning from Biostatistics to NLP to GANs to RL to Financial forecasting.
 - :wave:  I’m looking to collaborate with other content creators
-- 🥅  2021-22 Goals: Build more open-source tools for researchers and other data scientists, and share more of my knowledge with the community.
-- ⚡  Fun fact: I love to brew beer, compose music, run, build projects with Raspberry Pis, and play guitar.
+- 🥅  Goals: Share more of my knowledge with the community.
+- ⚡  Fun fact: I love to brew beer, run, build projects with Raspberry Pis, and compose music.
 
 ## Education:
-- Carnegie Mellon : Masters of Science in Business Analytics (applied machine learning to business)
-- Loyola University Chicago: Biology (interest in Viral oncolytics - no formal research in this field at this institution during my attendance)
+- Carnegie Mellon : Masters of Science in Business Analytics (applied machine learning)
+- Loyola University Chicago: Biology (interest in viral oncolytics and bioinformatics)
 
 ### Connect with me:
 
@@ -29,7 +29,7 @@
 <p><b>Primary:</b></p>
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Jupyter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
-<img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/512px-PyCharm_Logo.svg.png" />
+<img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/64px-PyCharm_Icon.svg.png" />
 <img align="left" alt="Datagrip" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/datagrip-icon-logo-png-transparent.png" />
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 <img align="left" alt="sklearn" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />
@@ -85,12 +85,6 @@
 ➡️ [more blog posts...](https://mechanicallamp.com/)
 
 ---
-
-
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Steve-Barnard's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=steve-barnard&show_icons=true&hide_border=true" />
-
 
 
 [website]: https://mechanicallamp.com/
