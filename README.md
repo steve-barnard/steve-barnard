@@ -2,11 +2,11 @@
 
 ## I'm a Sr. Data Scientist, Machine Learning Engineer, Data Engineer, and Enthusiast of Applied ML Research !
 
-- 🔭  I’m currently working on applied NLP services and Predictive Risk Models.
-- 🌱  I’m always working on learning new tools in Machine Learning from Biostatistics to NLP to GANs to RL to Financial forecasting.
-- :wave:  I’m looking to collaborate with other content creators
-- 🥅  Goals: Share more of my knowledge with the community.
-- ⚡  Fun fact: I love to brew beer, run, build projects with Raspberry Pis, and compose music.
+- 🔭&nbsp;   &nbsp; I’m currently working on applied NLP services and Predictive Risk Models.
+- 🌱&nbsp;   &nbsp;   I’m always working on learning new tools in Machine Learning from Biostatistics to NLP to GANs to RL to Financial forecasting.
+- :wave:&nbsp;   &nbsp;   I’m looking to collaborate with other content creators
+- 🥅 &nbsp;   &nbsp;   Goals: Share more of my knowledge with the community.
+- ⚡&nbsp;   &nbsp;   Fun fact: I love to brew beer, run, build projects with Raspberry Pis, and compose music.
 
 ## Education:
 - Carnegie Mellon : Masters of Science in Business Analytics (applied machine learning)
