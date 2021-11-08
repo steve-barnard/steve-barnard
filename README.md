@@ -33,7 +33,7 @@
 <img align="left" alt="Datagrip" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/datagrip-icon-logo-png-transparent.png" />
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 <img align="left" alt="sklearn" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />
-<img align="left" alt="Numpy" width="26px" src="https://numpy.org/images/logos/numpy.svg" />
+<img align="left" alt="Numpy" width="26px" src="https://numpy.org/images/logo.svg" />
 <img align="left" alt="Pandas" width="26px" src="https://pandas.pydata.org/static/img/pandas_secondary.svg" />
 <img align="left" alt="MXNet" width="26px" src="https://mxnet.apache.org/versions/1.6/assets/img/mxnet_logo.png" />
 <img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
