@@ -2,11 +2,11 @@
 
 ## I'm a Sr. Data Scientist, Machine Learning Engineer, Data Engineer, and Enthusiast of Applied ML Research !
 
-- 🔭&nbsp;   &nbsp; I’m currently working on applied NLP services and Predictive Risk Models.
+- 🔭&nbsp;   &nbsp; I’m currently working on NLP services, Predictive Risk Models, and DL CV for risk analysis.
 - 🌱&nbsp;   &nbsp;   I’m always working on learning new tools in Machine Learning from NLP to GANs to RL to Financial forecasting.
-- :wave:&nbsp;   &nbsp;   I’m looking to collaborate with other content creators.
-- 🥅 &nbsp;   &nbsp;   Goals: Share more of my knowledge with the community.
-- ⚡&nbsp;   &nbsp;   Fun fact: I love to brew beer, run, build projects with Raspberry Pis, and compose music.
+- :wave:&nbsp;   &nbsp;   I’m looking to collaborate with other entrepreneurs and data professionals.
+- 🥅 &nbsp;   &nbsp;   Goals: Share more of my knowledge with the community and improve hard & soft skillsets.
+- ⚡&nbsp;   &nbsp;   Fun fact: I love to brew beer, competitive code, lift & run, build things, and produce music.
 
 ## Education:
 - Carnegie Mellon : Masters of Science in Business Analytics - MSBA (applied machine learning)
@@ -71,21 +71,8 @@
 <img align="left" alt="Covid-19" width="26px" src="https://raw.githubusercontent.com/github/explore/af16e074f93c080d7b283815787283cab0e9414b/topics/covid-19/covid-19.png" />
 <br />
 <br />
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Is an Advanced Degree Needed for Data Science](https://mechanicallamp.com/2020/03/03/do-you-need-an-advanced-degree-to-be-a-data-scientist-or-data-engineer/)
-- [Programming Languages for Data Scientist](https://mechanicallamp.com/2019/10/09/which-computer-languages-should-a-data-scientist-or-other-data-professional-learn/)
-- [The Heart of Data Science](https://mechanicallamp.com/2019/10/06/the-heart-of-data-science/)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://mechanicallamp.com/)
-
----
-
+ 
+ ---
 
 [website]: https://mechanicallamp.com/
 [rosalind]: http://rosalind.info/users/steve-barnard/
