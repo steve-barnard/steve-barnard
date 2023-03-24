@@ -2,7 +2,7 @@
 
 ## I'm a Sr. Data Scientist, Machine Learning Engineer, Data Engineer, and Enthusiast of Applied ML Research !
 
-- 🔭&nbsp;   &nbsp; I’m currently working on NLP services, Knowledge graphs, Predictive Risk Models, and DL CV for risk analysis.
+- 🔭&nbsp;   &nbsp; I’m currently working on Scientific AI Infra Tools, NLP services, Knowledge graphs, Predictive Risk Models, and DL CV for risk analysis.
 - 🌱&nbsp;   &nbsp;   I’m always working on learning new tools in Machine Learning from NLP to GANs to RL to Financial forecasting.
 - :wave:&nbsp;   &nbsp;   I’m looking to collaborate with other entrepreneurs, researchers, and data professionals.
 - 🥅 &nbsp;   &nbsp;   Goals: Share more of my knowledge with the community and improve hard & soft skillsets.
