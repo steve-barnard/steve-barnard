@@ -1,16 +1,16 @@
 ### Hi, I'm Steve  👋
 
-## I'm a Sr. Data Scientist, Machine Learning Engineer, Data Engineer, and Enthusiast of Applied ML Research !
+## I'm a Director of Data Science, Machine Learning Engineer & ML Ops, Data Engineer,  Entrepreneur, and Enthusiast of Applied ML Research!
 
-- 🔭&nbsp;   &nbsp; I’m currently working on Scientific AI Infra Tools, NLP services, Predictive Risk Models, and DL CV for risk analysis.
+- 🔭&nbsp;   &nbsp; I’m currently working on [Open Source Scientific AI Infra Tools](https://github.com/Garden-AI), NLP services, Predictive Risk Models, and DL CV for risk analysis.
 - 🌱&nbsp;   &nbsp;   I’m always working on learning new tools in Machine Learning from NLP to GANs to RL to Financial forecasting.
 - :wave:&nbsp;   &nbsp;   I’m looking to collaborate with other entrepreneurs, researchers, and data professionals.
-- 🥅 &nbsp;   &nbsp;   Goals: Share more of my knowledge with the community and improve hard & soft skillsets.
+- 🥅 &nbsp;   &nbsp;   Goals: Share more of my knowledge with the community and improve hard & soft skillsets and produce some robotics prototypes.
 - ⚡&nbsp;   &nbsp;   Fun fact: I love to brew beer, competitive code, lift & run, build things, and produce music.
 
 ## Education:
-- Carnegie Mellon : Masters of Science in Business Analytics - MSBA (applied machine learning)
-- Loyola University Chicago: Biology - BS (interest in viral oncolytics and bioinformatics)
+- Carnegie Mellon: Masters of Science in Business Analytics - MSBA (applied machine learning)
+- Loyola University Chicago: Biology - BS (interest in viral oncolytics, bioengineering, biomechanics, and bioinformatics)
 
 ### Connect with me:
 
