@@ -2,7 +2,7 @@
 
 ## I'm a Director of Artificial Intelligence and Automation. I have also been a Machine Learning Engineer & ML Ops, Data Engineer, Data Scientist, Entrepreneur, and Enthusiast of Applied ML Research!
 
-- 🔭&nbsp;   &nbsp; In the rare occurrence of free time, I enjoy working on [Open Source Scientific AI Infra Tools](https://github.com/Garden-AI), NLP services, Generative AI (LLMs etc), Predictive Risk Models, and DL CV for risk analysis.
+- 🔭&nbsp;   &nbsp; In the rare occurrence of free time, I enjoy working on [Open Source Scientific AI Infra Tools](https://github.com/Garden-AI/garden), NLP services, Generative AI (LLMs etc), Predictive Risk Models, and DL CV for risk analysis.
 - 🌱&nbsp;   &nbsp;   I’m always working on learning new tools in Machine Learning from NLP to GANs to RL to Financial forecasting.
 - :wave:&nbsp;   &nbsp;   I’m looking to collaborate with other entrepreneurs, researchers, and data professionals.
 - 🥅 &nbsp;   &nbsp;   Goals: Share more of my knowledge with the community and improve hard & soft skillsets and produce some robotics prototypes.
